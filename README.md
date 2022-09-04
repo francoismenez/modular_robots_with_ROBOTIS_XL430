@@ -1,1 +1,1 @@
-# modular_robots_with_ROBOTIS_XM430
+# modular_robots_with_ROBOTIS_XL430
